@@ -1,0 +1,1 @@
+python main.py --config=config.d4rl.hopper_mixed
